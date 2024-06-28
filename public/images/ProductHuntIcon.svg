@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1360 1358" width="1360" height="1358">
+	<title>phhh-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h5812.96v1358h-5812.96z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ff6154 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m679.9 1358c-376 0-679.9-303.5-679.9-679 0-375.5 303.9-679 679.9-679 376 0 679.9 303.5 679.9 679 0 375.5-303.9 679-679.9 679z"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m1008.5 577.1c0 131.3-106.6 237.7-238 237.7h-192.6v203.7h-136v-679h328.6c131.4 0 238 106.4 238 237.6zm-136 0c0-56.2-45.6-101.8-102-101.8h-192.6v203.7h192.6c56.4 0 102-45.6 102-101.9z"/>
+		</g>
+	</g>
+</svg>
